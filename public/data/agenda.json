@@ -1,0 +1,173 @@
+[
+  {
+    "day": "Miercoles",
+    "date": "4 de febrero de 2026",
+    "dateISO": "2026-02-04",
+    "events": [
+      {
+        "time": "08:00",
+        "title": "Desayuno",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "09:30",
+        "title": "Inauguración",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "10:45",
+        "title": "Refrigerio",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "11:00",
+        "title": "Inauguración del Campeonato",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "12:30",
+        "title": "Almuerzo",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "14:00",
+        "title": "Continuación del campeonato",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "19:00",
+        "title": "Cena",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "20:00",
+        "title": "Presentación de la Directora Nacional – Food for the Hungry",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "20:15",
+        "title": "Bolivian HEARTBEAT",
+        "description": "",
+        "location": ""
+      }
+    ]
+  },
+  {
+    "day": "Jueves",
+    "date": "5 de febrero de 2026",
+    "dateISO": "2026-02-05",
+    "events": [
+      {
+        "time": "06:00",
+        "title": "Atletismo",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "08:00",
+        "title": "Desayuno",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "08:30",
+        "title": "Devocional",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "09:00",
+        "title": "Taller Unlock",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "10:45",
+        "title": "Refrigerio",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "11:00",
+        "title": "Taller Invitado Especial",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "12:30",
+        "title": "Almuerzo",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "14:30",
+        "title": "Tarde de Juegos",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "19:00",
+        "title": "Food for the Hungry Awards",
+        "description": "",
+        "location": ""
+      }
+    ]
+  },
+  {
+    "day": "Viernes",
+    "date": "6 de febrero de 2026",
+    "dateISO": "2026-02-06",
+    "events": [
+      {
+        "time": "06:00",
+        "title": "Juego de Orquestadores",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "08:00",
+        "title": "Desayuno",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "08:30",
+        "title": "Devocional",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "09:00",
+        "title": "Final de Campeonato",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "10:45",
+        "title": "Refrigerio",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "12:30",
+        "title": "Almuerzo",
+        "description": "",
+        "location": ""
+      },
+      {
+        "time": "13:30",
+        "title": "Cierre de encuentro",
+        "description": "",
+        "location": ""
+      }
+    ]
+  }
+]

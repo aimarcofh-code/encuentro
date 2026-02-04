@@ -1,0 +1,23 @@
+{
+  "name": "temp_app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "update-scores": "node scripts/update_scores.js",
+    "reset-fixture": "node scripts/generate_fixture.js && node scripts/create_template.js"
+  },
+  "devDependencies": {
+    "vite": "^7.2.4"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.93.2",
+    "leaflet": "^1.9.4",
+    "leaflet-kmz": "^1.0.9",
+    "qrcode": "^1.5.4",
+    "xlsx": "^0.18.5"
+  }
+}

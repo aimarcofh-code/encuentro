@@ -1,0 +1,197 @@
+[
+  {
+    "sport": "Futsal Varones",
+    "matches": [
+      {
+        "id": 1,
+        "round": 1,
+        "sport": "Futsal Varones",
+        "teamA": "Cochabamba",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 2,
+        "round": 1,
+        "sport": "Futsal Varones",
+        "teamA": "Chuquisaca",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 3,
+        "round": 2,
+        "sport": "Futsal Varones",
+        "teamA": "Cochabamba",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 4,
+        "round": 2,
+        "sport": "Futsal Varones",
+        "teamA": "Nacional",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "PLAYING"
+      },
+      {
+        "id": 5,
+        "round": 3,
+        "sport": "Futsal Varones",
+        "teamA": "Cochabamba",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 6,
+        "round": 3,
+        "sport": "Futsal Varones",
+        "teamA": "La Paz",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      }
+    ]
+  },
+  {
+    "sport": "Futsal Mujeres",
+    "matches": [
+      {
+        "id": 7,
+        "round": 1,
+        "sport": "Futsal Mujeres",
+        "teamA": "Cochabamba",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 8,
+        "round": 1,
+        "sport": "Futsal Mujeres",
+        "teamA": "Chuquisaca",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 9,
+        "round": 2,
+        "sport": "Futsal Mujeres",
+        "teamA": "Cochabamba",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "PLAYING"
+      },
+      {
+        "id": 10,
+        "round": 2,
+        "sport": "Futsal Mujeres",
+        "teamA": "Nacional",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 11,
+        "round": 3,
+        "sport": "Futsal Mujeres",
+        "teamA": "Cochabamba",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 12,
+        "round": 3,
+        "sport": "Futsal Mujeres",
+        "teamA": "La Paz",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      }
+    ]
+  },
+  {
+    "sport": "Voleibol Mixto",
+    "matches": [
+      {
+        "id": 13,
+        "round": 1,
+        "sport": "Voleibol Mixto",
+        "teamA": "Cochabamba",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "PLAYING"
+      },
+      {
+        "id": 14,
+        "round": 1,
+        "sport": "Voleibol Mixto",
+        "teamA": "Chuquisaca",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 15,
+        "round": 2,
+        "sport": "Voleibol Mixto",
+        "teamA": "Cochabamba",
+        "teamB": "La Paz",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 16,
+        "round": 2,
+        "sport": "Voleibol Mixto",
+        "teamA": "Nacional",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 17,
+        "round": 3,
+        "sport": "Voleibol Mixto",
+        "teamA": "Cochabamba",
+        "teamB": "Chuquisaca",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      },
+      {
+        "id": 18,
+        "round": 3,
+        "sport": "Voleibol Mixto",
+        "teamA": "La Paz",
+        "teamB": "Nacional",
+        "scoreA": 0,
+        "scoreB": 0,
+        "status": "SCHEDULED"
+      }
+    ]
+  }
+]

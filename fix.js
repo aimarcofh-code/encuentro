@@ -1,0 +1,1 @@
+import fs from "fs"; ["public/data/games.json", "public/data/matches.json"].forEach(f => { fs.writeFileSync(f, fs.readFileSync(f, "utf8").split("\\\"").join("\"")); });

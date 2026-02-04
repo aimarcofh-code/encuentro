@@ -1,0 +1,410 @@
+[
+  {
+    "room": "Habitación 1",
+    "floor": "",
+    "occupants": [],
+    "coordenadas": {
+      "x": 79,
+      "y": 90
+    }
+  },
+  {
+    "room": "Habitación 2",
+    "floor": "",
+    "occupants": [
+      "REYNA ZACONETA ANGEL FELIX",
+      "GUARACHI ESCOBAR SERGIO EMILIO"
+    ],
+    "coordenadas": {
+      "x": 45,
+      "y": 64
+    }
+  },
+  {
+    "room": "Habitación 3",
+    "floor": "",
+    "occupants": [
+      "VILLAFUERTE GALLARDO ALEJANDRA KAROL"
+    ],
+    "coordenadas": {
+      "x": 32,
+      "y": 26
+    }
+  },
+  {
+    "room": "Habitación 4",
+    "floor": "",
+    "occupants": [
+      "MARCELO VISCARRA"
+    ],
+    "coordenadas": {
+      "x": 55,
+      "y": 81
+    }
+  },
+  {
+    "room": "Habitación 5",
+    "floor": "",
+    "occupants": [
+      "DELGADO TOVAR CORALY IRIS"
+    ],
+    "coordenadas": {
+      "x": 12,
+      "y": 33
+    }
+  },
+  {
+    "room": "Habitación 7",
+    "floor": "",
+    "occupants": [
+      "MARIA TARACHI"
+    ],
+    "coordenadas": {
+      "x": 33,
+      "y": 86
+    }
+  },
+  {
+    "room": "Habitación 8",
+    "floor": "",
+    "occupants": [
+      "TORRICOS PEÑARANDA FAVIOLA PAMELA",
+      "ARANIBAR URUÑA VICTORIA",
+      "MARISOL FLORES"
+    ],
+    "coordenadas": {
+      "x": 18,
+      "y": 71
+    }
+  },
+  {
+    "room": "Habitación 9",
+    "floor": "",
+    "occupants": [
+      "TOLA CHOQUE RENE",
+      "TUMIRI MENDOZA ADRIAN",
+      "DAVID BUHEZO",
+      "MAMANI CHOQUE SEVERINO",
+      "MARCA RAMIREZ IVER",
+      "PILLCO SANCHEZ ANCELMO",
+      "COLQUE ESPINOZA EDUARDO",
+      "GERONIMO PILLCO JHONNY",
+      "GUALBERTO RODRIGUEZ"
+    ],
+    "coordenadas": {
+      "x": 88,
+      "y": 65
+    }
+  },
+  {
+    "room": "Habitación 10",
+    "floor": "",
+    "occupants": [
+      "Torrez Martela Marysabel",
+      "Roman Gutierrez Marisol Ruby",
+      "Duran Tito Ylsen",
+      "Flores Limachi Helen Cristina",
+      "Condori Aruquipa Maria Elena",
+      "Baldivieso Mamani Claudia"
+    ],
+    "coordenadas": {
+      "x": 96,
+      "y": 42
+    }
+  },
+  {
+    "room": "Habitación 11",
+    "floor": "",
+    "occupants": [
+      "Tantani Condori Celia",
+      "Carita Tarqui Rosario"
+    ],
+    "coordenadas": {
+      "x": 64,
+      "y": 23
+    }
+  },
+  {
+    "room": "Habitación 12",
+    "floor": "",
+    "occupants": [
+      "APAZA ACHACOLLO DAVID",
+      "BACARREZA ROLANDO",
+      "LUIS LIZANDRO COCA VASQUEZ",
+      "NAVIA MEJIA DENIS",
+      "PACO SILVA JOSUE WILFREDO"
+    ],
+    "coordenadas": {
+      "x": 92,
+      "y": 81
+    }
+  },
+  {
+    "room": "Habitación 13",
+    "floor": "",
+    "occupants": [
+      "TALLACAGUA PALOMINO MARIA ALICIA",
+      "TORRICO PALACIOS ROSA"
+    ],
+    "coordenadas": {
+      "x": 4,
+      "y": 36
+    }
+  },
+  {
+    "room": "Habitación 14",
+    "floor": "",
+    "occupants": [
+      "HUAYHUA HUAYHUA CINTIA KAREM",
+      "LARA FIGUEROA CLAUDIA ROMINA",
+      "GONZALES CACERES CLAUDIA"
+    ],
+    "coordenadas": {
+      "x": 48,
+      "y": 60
+    }
+  },
+  {
+    "room": "Habitación 15",
+    "floor": "",
+    "occupants": [
+      "CLAVEL SALAS SILVIA PRISCILA",
+      "MENECES MARIA JULIA",
+      "CHIRI MARILU"
+    ],
+    "coordenadas": {
+      "x": 97,
+      "y": 16
+    }
+  },
+  {
+    "room": "Habitación 16",
+    "floor": "",
+    "occupants": [
+      "VARGAS BUTRON FABIOLA GINA",
+      "VARGAS VILCHES PAOLA SILVANA",
+      "BURGOA VARGAS FERNANDA"
+    ],
+    "coordenadas": {
+      "x": 60,
+      "y": 43
+    }
+  },
+  {
+    "room": "Habitación 17",
+    "floor": "",
+    "occupants": [
+      "CARRETERO VALDEZ ERICK MIGUEL",
+      "ROCA CALDERON VICTOR HUGO"
+    ],
+    "coordenadas": {
+      "x": 37,
+      "y": 23
+    }
+  },
+  {
+    "room": "Habitación 18",
+    "floor": "",
+    "occupants": [
+      "LIMON REINA MERY",
+      "LLANOS MENDOZA LITZY JHULINETH",
+      "VILLANUEVA ALACA ESTHER"
+    ],
+    "coordenadas": {
+      "x": 67,
+      "y": 10
+    }
+  },
+  {
+    "room": "Habitación 19",
+    "floor": "",
+    "occupants": [
+      "LIMACHI ALVAREZ PATRICIA OLGA",
+      "VALDES ROMERO MARIHELA XIMENA ESTHER"
+    ],
+    "coordenadas": {
+      "x": 39,
+      "y": 60
+    }
+  },
+  {
+    "room": "Habitación 20",
+    "floor": "",
+    "occupants": [
+      "RODRIGUEZ TRUJILLO JUAN CARLOS",
+      "SAYGUA SOLIS ALFREDO",
+      "VICENTE LOPEZ PEDRO"
+    ],
+    "coordenadas": {
+      "x": 47,
+      "y": 63
+    }
+  },
+  {
+    "room": "Habitación 21",
+    "floor": "",
+    "occupants": [
+      "COA DIAZ JOSE CLEMENTE",
+      "HUARACHI TORIHUANO GERMAN",
+      "POTOSI FLORES ROLANDO"
+    ],
+    "coordenadas": {
+      "x": 88,
+      "y": 75
+    }
+  },
+  {
+    "room": "Habitación 22",
+    "floor": "",
+    "occupants": [
+      "MUÑOZ VARGAS JOSE CARLOS",
+      "QUIÑONES CHACA CARLOS CAMILO",
+      "TORO CALDERON JOSE DAVID"
+    ],
+    "coordenadas": {
+      "x": 55,
+      "y": 45
+    }
+  },
+  {
+    "room": "Habitación 23",
+    "floor": "",
+    "occupants": [
+      "QUISPE APOLINAR",
+      "SANCHEZ CHOQUE MARCO ANTONIO",
+      "TANGO MENDOZA JOSE LUIS"
+    ],
+    "coordenadas": {
+      "x": 82,
+      "y": 5
+    }
+  },
+  {
+    "room": "Habitación 24",
+    "floor": "",
+    "occupants": [
+      "LOPEZ  MAMANI VICTOR HUGO",
+      "SERRANO MACEDONIO ISMAEL DEREK",
+      "TORREZ FLORES ARMANDO"
+    ],
+    "coordenadas": {
+      "x": 38,
+      "y": 60
+    }
+  },
+  {
+    "room": "Habitación 25",
+    "floor": "",
+    "occupants": [
+      "DIAZ ESPINOZA ALEJANDRO",
+      "HERRERA MARTINEZ FRANKLIN OMAR"
+    ],
+    "coordenadas": {
+      "x": 95,
+      "y": 97
+    }
+  },
+  {
+    "room": "Habitación 26",
+    "floor": "",
+    "occupants": [
+      "CRUZ FLORES EBER RODOLFO",
+      "LOPEZ ESTRADA EDGAR"
+    ],
+    "coordenadas": {
+      "x": 4,
+      "y": 0
+    }
+  },
+  {
+    "room": "Cabaña A",
+    "floor": "",
+    "occupants": [
+      "AJHUACHO VILLALOBOS BANIA ANGELA",
+      "CLEMENTE CHIRARI ALEJANDRA",
+      "LLANOS RAMOS JHANET",
+      "MICHAGA PORTUGAL MAGALY",
+      "PEREZ SERRUDO ELSA",
+      "ROMERO TELLEZ WILMA",
+      "AVALOS GONZALES ISIDORA CINDY"
+    ],
+    "coordenadas": {
+      "x": 17,
+      "y": 27
+    }
+  },
+  {
+    "room": "Cabaña B",
+    "floor": "",
+    "occupants": [
+      "CEPEDA COPA MARIA VIRGINIA",
+      "DAVILA RASGUIDO ROSETH PAMELA",
+      "LAGUNA GONZALES NANCY NAREL",
+      "MANCILLA CABEZAS BETTY",
+      "OPORTO CUEVAS ROSARIO",
+      "ROJAS CAMACHO NOEMI",
+      "SAAVEDRA VARGAS CHARO ROSARIO",
+      "TOLA LOPEZ MARIA ANGELICA",
+      "TORRICO LUIZAGA LIZBETH ROCIO",
+      "VILLCA TUMIRI CINTHIA",
+      "SARMIENTO JIMENA"
+    ],
+    "coordenadas": {
+      "x": 48,
+      "y": 41
+    }
+  },
+  {
+    "room": "BUHO",
+    "floor": "",
+    "occupants": [
+      "QUIROZ VELIZ JOSE LUIS",
+      "RODOLFO RIOS",
+      "MAMANI MAMANI FERNANDO",
+      "RODRIGUEZ YUNCA DAMIAN",
+      "SANCHEZ MONTECINOS GONZALO JOSE",
+      "SANCHEZ PILLCO FRANCISCO"
+    ],
+    "coordenadas": {
+      "x": 61,
+      "y": 16
+    }
+  },
+  {
+    "room": "Cabaña C",
+    "floor": "",
+    "occupants": [
+      "MUÑOZ VERA MAURICIO FERNANDO",
+      "QUISBERT BAZAN RONALD JAIR",
+      "SAMO QUISPE JOSE",
+      "TERAN PEREZ MARCELO",
+      "ZAPANA MENDOZA EDGAR ANGEL",
+      "COPANA ZAPANA JHON DUARD",
+      "MALDONADO MARTINEZ MAYCOL RANDY"
+    ],
+    "coordenadas": {
+      "x": 92,
+      "y": 43
+    }
+  },
+  {
+    "room": "Cabaña D",
+    "floor": "",
+    "occupants": [
+      "GUTIERREZ ALDANA MARCELO",
+      "JUAN CARLOS HIDALGO",
+      "CARICARI COCA DAMIAN",
+      "CHAVARRIA CALLAHUARA EDWIN",
+      "CHISSI CONDORI ALBERTO",
+      "Morales Calle Beymar Ivan",
+      "Flores Lanchipa Alejandro Trifon",
+      "Ticona Laura Javier",
+      "Gutierrez Laime Wilder Daniel",
+      "Chura Choque Jorge Adhemar"
+    ],
+    "coordenadas": {
+      "x": 31,
+      "y": 46
+    }
+  }
+]
